@@ -50,11 +50,4 @@ To run the script, use the command
 ```
 python smart_contract_repair.py /path/to/smart_contract.sol contract_name
 ```
-
-
-Tasks to do:  
-
-- Implementation:
-    - Use the benchmark to test
-- Writing:
-    - Write a skelton of the paper: what story we want to tell in the paper: Focusing on automatically repairing TOD vulnerabilities and how automated vulnerabilites patching tools for smart contracts don't handle TOD type vulnerabilities.  
+ 
