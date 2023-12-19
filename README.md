@@ -51,3 +51,6 @@ To run the script, use the command
 python smart_contract_repair.py /path/to/smart_contract.sol contract_name
 ```
  
+## License
+
+The MIT License applies to all the files in this repository, except for all the contracts files with names that start with Ethereum addresses `0x...`. These files are publicly available, were obtained using the [Etherscan APIs](https://etherscan.io/apis), and retain their original licenses. 
